@@ -66,7 +66,7 @@ Web-based application is create using React.js on front-end, Java Spring Boot Re
 end and MySQL for database. Both front-end and back-end are deployed onto Amazon EC 2
 instance and database is deployed on Amazon RDS instance.
 
-Link of working web application: [http://43.205.118.157:](http://43.205.118.157:)
+Link of working web application: [http://43.205.118.157:3000](http://43.205.118.157:3000)
 
 ### 1. Home Page for login or signup. This page will contain “Emergency button” for
 
